@@ -1,1 +1,0 @@
-mongodb+srv://kartik124915:<db_password>@cluster0.zcwutix.mongodb.net/?appName=Cluster0
